@@ -1,9 +1,11 @@
 <html>
 
 <body>
-  <title>My name is Shaji. I work for Sasha Kids LLC.<title>
+  <title> My First Website<title>
     <br>
 <p>
+  My name is Shaji. I work for Sasha Kids LLC.
+  <br>
   I worked on my Website. I was also a Partner at Legion M and other startup companies.
 <br>
 I’m an occasional a investor.
