@@ -1,2 +1,2 @@
-# myFirstRepo
-This is my First Repository
+# my firstWebsite
+This is my First Website
