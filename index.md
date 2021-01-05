@@ -1,6 +1,6 @@
 <h1> Hello World this is my first repo </h1>
 <h2> This is my first Website </h2>
-<img src="pic_trulli.jpg" alt="Italian Trulli">
+
 <table style="width:100%">
   <tr>
     <th>Firstname</th>
